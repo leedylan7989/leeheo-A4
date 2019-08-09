@@ -1,0 +1,7 @@
+{
+    "dinner": [
+        {"name": "Dinner Item1"},
+        {"name": "Dinner Item2"},
+        {"name": "Dinner item3"}
+    ] 
+}
